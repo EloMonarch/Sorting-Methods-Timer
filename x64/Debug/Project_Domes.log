@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(5,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(61,5): warning C4013: 'strncpy' undefined; assuming extern returning int
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(281,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(300,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Project_Domes\Project_Domes\Source.c(315,58): warning C4018: '>': signed/unsigned mismatch
+  Project_Domes.vcxproj -> C:\Users\PC\source\repos\Project_Domes\x64\Debug\Project_Domes.exe
